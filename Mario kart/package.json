@@ -1,0 +1,20 @@
+{
+  "name": "introducao",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test an not specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Danilo753/node.js.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Danilo753/node.js/issues"
+  },
+  "homepage": "https://github.com/Danilo753/node.js#readme",
+  "description": ""
+}
+
